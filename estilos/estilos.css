@@ -1,0 +1,158 @@
+        /*
+    ESTILOS WEB
+*/
+
+        .idiomas {
+            width: 3%;
+            height: 3%;
+        }
+
+        .fondo {
+            background-color: #ebf5ff;
+        }
+
+        /*
+    ESTILOS INDEX
+*/
+
+        .fondoini {
+            background: linear-gradient(rgba(179, 222, 239, 1) 0%, rgba(106, 208, 246, 1) 26%, rgba(24, 187, 236, 1) 51%, rgba(179, 222, 239, 1) 100%) fixed;
+        }
+
+        /*
+    ESTILOS WEB
+*/
+        /*                  MENU PERO QUE CREO QUE NO FUNCIONA
+        .dropdown:hover>.dropdown-menu {
+            display: block;
+        }
+        
+        .dropdown>.dropdown-toggle:active {
+            pointer-events: none;
+        }
+        
+        .dropdown-menu>span>a {
+            text-decoration: none;
+            color: black;
+        }
+        
+        .dropdown-menu>span>a:hover {
+            text-decoration: underline;
+            color: #007bff;
+        }
+        
+        */
+        /* ESTILOS CARRUSEL */
+
+        .carro {
+            position: relative;
+            top: 100px;
+        }
+
+        .carousel,
+        .carousel-item>img {
+            height: 500px;
+            width: 100%;
+        }
+
+        /* ESTILOS MENU */
+
+        .colores {
+            background-color: #C0F1FF;
+        }
+
+        .separator {
+            border-right: 1px solid white;
+        }
+
+        /* ESTILOS CUERPO */
+
+        .foto {
+            height: 350px;
+            width: 300px;
+        }
+
+
+        .logo {
+            position: relative;
+            width: 200px;
+        }
+
+        /* ESTILOS PARA LAS FOTOS DE LOS PRODUCTOS */
+
+        .fotos {
+            width: 222px;
+            height: 222px;
+        }
+
+        .mt105 {
+            margin-top: 120px;
+        }
+
+        .product-card {
+
+            text-align: justify;
+
+            border: 1px solid black;
+
+            padding: 15px;
+
+        }
+
+        .product-card h2 {
+
+            margin: 30px 0 15px;
+
+        }
+
+        .product-card a {
+
+            color: black;
+
+            text-decoration: none;
+
+        }
+
+        .product-card p {
+
+            line-height: 1.5;
+
+        }
+
+        .mapa{
+            height: 100%;
+            width: 100%;
+        }
+
+
+        /* MODO OSCURO */
+        .fondo-oscuro {
+            background-color: rgb(21, 32, 43);
+        }
+
+        .nav-oscuro {
+            background-color: rgb(29, 161, 242);
+
+        }
+
+        input.form-control::placeholder,
+        textarea.form-control::placeholder {
+            color: #bfbfbf;
+        }
+
+        #botones {
+            margin-top: 50px !important;
+        }
+
+        #price {
+            text-align: center;
+            font-weight: bold;
+        }
+
+        #name{
+            font: oblique bold 120% cursive;
+        }
+
+        #desc{
+            font: small-caps 100%/200% serif;
+        }
