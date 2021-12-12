@@ -1,0 +1,18 @@
+{
+    "name": "juanjose/productos",
+    "description": "Proyecto final Outlet Gloom",
+    "type": "project",
+    "license": "GNU",
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    },
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "src"
+        }
+    }
+}
+

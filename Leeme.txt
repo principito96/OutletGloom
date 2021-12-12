@@ -1,0 +1,7 @@
+La primera carpeta encontrada es base donde encontramos el archivo productos.sql
+Después nos encontramos con la carpeta estilos donde guardamos los estilos de la página.
+La tercera carpeta es la de Fotos y nos encontramos con las fotos usadas en la web.
+La cuarta carpeta es js donde nos encontramos con el archivo index.js encargado del modo oscuro de la pagina
+La quinta carpeta encontrada es la de páginas donde están guardadas las páginas que se pueden cargar en el navegador
+La sexta carpeta encontrada es php donde guardo los archivos del PhpMailer para que funcione
+La última carpeta encontrada es src donde nos encontramos con la conexión y los controladores de las clases
